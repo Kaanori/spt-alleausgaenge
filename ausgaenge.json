@@ -1,0 +1,6 @@
+{
+  "_hinweis": "Wirkt beim naechsten Serverstart. Zuege bleiben immer ausgenommen.",
+  "chance": true,
+  "einstiegspunkte": true,
+  "zeitfenster": true
+}
