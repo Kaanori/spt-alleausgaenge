@@ -1,5 +1,7 @@
 # AlleAusgaenge (all extracts)
 
+> **Now part of [Kaan's QoL](https://github.com/Kaanori/spt-kaansqol)** – this module is included there (with your settings migrated automatically). This stand-alone version is no longer updated.
+
 Makes every extract on every map always available: chance set to 100 %, entry points merged, time window open. Trains are excluded.
 
 ## How this mod was made (AI disclosure)
